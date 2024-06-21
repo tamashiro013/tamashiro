@@ -16,4 +16,4 @@ tamashirofelipe29@gmail.com
 
 @tamashiro013
 
-> Escrito por Alura Start
+> Escrito por Felipe Tamashiro
