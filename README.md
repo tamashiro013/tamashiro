@@ -15,3 +15,5 @@ Meu nome é Felipe Tamashiro
 tamashirofelipe29@gmail.com
 
 @tamashiro013
+
+> Escrito por Alura Start
