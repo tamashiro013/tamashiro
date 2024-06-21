@@ -2,7 +2,7 @@
 
 Boas vindas ao meu perfil 💙💙
 
-Meu nome é Felipe Tamashirp
+Meu nome é Felipe Tamashiro
 
 Estou estudando na EE de Três Barras
 Estou me desenvolvendo na linguagem JavaScript
