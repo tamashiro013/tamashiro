@@ -1,6 +1,6 @@
 # tamashiro
 
-Boas vindas ao meu perfil 💙💙
+##**Boas vindas ao meu perfil** 💙💙
 
 Meu nome é Felipe Tamashiro
 
@@ -15,5 +15,3 @@ Você pode entrar em contato comigo 📫
 tamashirofelipe29@gmail.com
 
 @tamashiro013
-
-A palavra **limão** deve ser destacada.
